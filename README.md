@@ -3,9 +3,6 @@ Taro 是由凹凸实验室打造的一套遵循 React 语法规范的多端统�
 
 使用 Taro，我们可以只书写一套代码，再通过 Taro 的编译工具，将源代码分别编译出可以在不同端（微信小程序、H5、App 端等）运行的代码。目前Taro支持编译出支持微信小程序、H5运行的代码，RN和支付宝小程序的支持还在开发中。具体介绍请看这篇[文章](https://aotu.io/notes/2018/06/07/Taro/)，[github地址](https://github.com/NervJS/taro)
 
-### 前言
-为了学习Taro，本人在github找了[知乎的小程序demo](https://github.com/RebeccaHanjw/weapp-wechat-zhihu)，本文通过修改该份代码，实现了taro版的知乎H5、小程序demo，对taro有兴趣的同学可以star或fork下来学习，[github地址](https://github.com/jimczj/taro_zhihu)。
-
 ### 安装
 安装 Taro 开发工具 @tarojs/cli
 
