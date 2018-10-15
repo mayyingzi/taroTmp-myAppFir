@@ -6,6 +6,9 @@ import {
 } from '@tarojs/components'
 
 export default class Login extends Component {
+  getMyName() {
+    console.log('miao miao miao')
+  }
   render() {
     const isLoggedIn = this.props.isLoggedIn
     let status = null
