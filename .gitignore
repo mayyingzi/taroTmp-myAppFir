@@ -1,3 +1,5 @@
 dist/
 .temp/
 node_modules/
+__src
+_src
